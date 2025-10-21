@@ -1,0 +1,1 @@
+A voice-enabled AI chat assistant combining Vosk for offline speech recognition and DeepSeek API for responses. Captures real-time speech, transcribes it, sends queries to DeepSeek, and reads AI replies aloud using pyttsx3. Fully interactive, cross-platform, and continuously conversational.
